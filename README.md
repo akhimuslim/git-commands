@@ -48,3 +48,8 @@ git reset --hard commitID
 git push -f origin development
 ```
 
+**8) Загрузка последней версии проекта из удаленного репозитория в локальный репозиторий:**
+```
+git pull remoteReposName localReposName
+```
+
