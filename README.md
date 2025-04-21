@@ -53,17 +53,12 @@ git push -f origin development
 git pull remoteReposName localReposName
 ```
 
-**9) Создание ветки new_branch_name:**
+**9) Переход на ветку new_branch_name, если такая существует:**
 ```
 git checkout new_branch_name
 ```
 
-**10) Переход на ветку new_branch_name:**
-```
-git checkout new_branch_name
-```
-
-**11) Создание ветки new_branch_name и переход на неё:**
+**10) Создание ветки new_branch_name и переход на неё:**
 ```
 git checkout -b new_branch_name
 ```
